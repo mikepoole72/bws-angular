@@ -26,6 +26,8 @@ namespace BaseWebSolution
 
             bundles.Add(new ScriptBundle("~/bundles/js")
                         .Include("~/Scripts/bootstrap/bootstrap.js")
+                        .Include("~/Scripts/angular.js")
+                        .Include("~/Scripts/global.js")
                         .Include("~/Scripts/modernizr-2.6.2.js"));
 
             // REMOVED DEFAULT

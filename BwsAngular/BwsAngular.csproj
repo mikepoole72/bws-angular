@@ -330,12 +330,17 @@
     <Content Include="Content\less\bootstrap-datetimepicker-build.less" />
     <Content Include="Content\less\_bootstrap-datetimepicker.less" />
     <None Include="Properties\PublishProfiles\Local Deploy.pubxml" />
+    <Content Include="Scripts\angular.js" />
+    <Content Include="Scripts\angular.min.js" />
+    <Content Include="Scripts\angular.min.js.map" />
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="Icon.png" />
+    <Content Include="Scripts\angular-mocks.js" />
     <Content Include="Scripts\bootstrap\bootstrap-datetimepicker.js" />
     <Content Include="Scripts\bootstrap\bootstrap-datetimepicker.min.js" />
     <Content Include="Scripts\bootstrap\bootstrap.js" />
     <Content Include="Scripts\bootstrap\bootstrap.min.js" />
+    <Content Include="Scripts\global.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />
